@@ -1,7 +1,7 @@
 # Introduction
 
 TA: Matthew Kielar  
-Office Hours: Wed, 13:00-14:00 (IONA 434) or by appointment
+Office Hours: Wed, 13:00-14:00 (IONA 434) or by appointment  
 Email: <matthew.kielar@ubc.ca>
 
 ## Note on LLMs and use of AI
